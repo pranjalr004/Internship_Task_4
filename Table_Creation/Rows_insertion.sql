@@ -12,3 +12,10 @@ INSERT INTO enrollments VALUES
 (9,4,2,45,'Semester 1'),(10,4,3,30,'Semester 1'),
 (11,5,1,95,'Semester 1'),(12,5,4,80,'Semester 1'),
 (13,6,1,60,'Semester 1'),(14,6,2,72,'Semester 1'),(15,6,3,50,'Semester 1');
+INSERT INTO enrollments VALUES
+(16,1,1,90,'Semester 2'),
+(17,2,1,60,'Semester 2'),
+(18,3,3,95,'Semester 2'),
+(19,4,2,70,'Semester 2'),
+(20,5,1,98,'Semester 2'),
+(21,6,2,80,'Semester 2');
